@@ -4,94 +4,94 @@
 
 var textStrings_EN = {
 	// Act 1
-	"niceHat": "OOH NICE HAT",
+	"niceHat": "CARACA! CHAPEU MANEIRO",
 	"outtaHere": "yeah git on outta here",
-	"getARoom": "GROSS, GO GET A ROOM",
-	"notCoolAnymore": "nvm hats aren't cool anymore",
-	"tvOnTv": "A TV... ON TV!",
-	"cricky": "LIL' CRICKY <3",
-	"tooManyCrickets": "okay that's too many crickets",
-	"normalPeep": "just a normal peep",
-	"normalPeeps": "just some normal peeps",
-	"wowNothing": "WOWWEE, IT'S NOTHING",
+	"getARoom": "ECA, ACHEM UM QUARTO",
+	"notCoolAnymore": "deixa pra la, ninguem gosta mais de chapéu",
+	"tvOnTv": "UMA TV... NA TV!!!",
+	"cricky": "UM MINI GRILO :)",
+	"tooManyCrickets": "calma la, agora temos grilos demais",
+	"normalPeep": "apenas uma cara normal",
+	"normalPeeps": "apenas algums caras normais",
+	"wowNothing": "OH MEU DEUS, NADA",
 
 	// Act 2
-	"crazySquareAttacks": "CRAZED SQUARE ATTACKS",
-	"justMissed": "oooooh just missed it",
-	"somethingInteresting": "(ya gotta catch 'em doing *something* interesting...)",
-	"whoIsScreaming": "(ya gotta catch who's screaming at 'em)",
-	"circleFearsSquares": "CIRCLE FEARS SQUARES",
-	"whoScaresThem": "(ya gotta also catch *who* they're scared by)",
-	"areTheyScared": "(ya gotta catch 'em *being* scared by a square)", // not used
-	"squaresSnubCircles": "SQUARES SNUB CIRCLES",
-	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
-	"everyoneHates": "EVERYONE HATES EVERYONE!!1!",
-	"almostEveryoneHates": "ALMOST EVERYONE HATES EVERYONE...",
-	"squaresHateCircles": "SQUARES HATE CIRCLES",
-	"circlesHateSquares": "CIRCLES HATE SQUARES",
-	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
-	"nerdsNow": "what are these nerds doing now",
-	"schockedPeep": "why's this peep shocked?",
-	"whatever": "whatever",
+	"crazySquareAttacks": "QUADRADO MALUCO ATACA",
+	"justMissed": "naoooo, acabei de perder",
+	"somethingInteresting": "(vc tem que pegar eles fazendo *algo* interessante...)",
+	"whoIsScreaming": "(vc tem que pegar quem está gritando com eles)",
+	"circleFearsSquares": "CIRCULO TEM MEDO DE QUADRADOS",
+	"whoScaresThem": "(vc tem que pegar *quem* eles estão com medo)",
+	"areTheyScared": "(vc tem que pegar eles *estando* com medo de um quadrado)", // not used
+	"squaresSnubCircles": "QUADRADOS ODEIAM CIRCULOS",
+	"areTheySnubbed": "(vc tem que pegar eles *enquanto* esnobam um circulo)", // not used
+	"everyoneHates": "TODO MUNDO ODEIA TODO MUNDO!1!1!",
+	"almostEveryoneHates": "QUASE TODO MUNDO ODEIA TODO MUNDO...",
+	"squaresHateCircles": "QUADRADOS ODEIAM CIRCULOS",
+	"circlesHateSquares": "CIRCULOS ODEIAM QUADRADOS",
+	"areTheyYelling": "(vc tem que pegar ele *gritando* uns aos outros)", // not used
+	"nerdsNow": "oq esses nerds estão fazendo agora?!",
+	"schockedPeep": "porque esse cara ta chocado?",
+	"whatever": "ninguem liga",
 
 	// Act 3
 	"ellipsis": ". . .",
-	"coolNoMore": "hats ain't cool no more, haven't you heard?",
-	"beScared": "BE SCARED. BE ANGRY.",
+	"coolNoMore": "chapéus não são mais tão legais, você não ouviu?",
+	"beScared": "FIQUE COM MEDO. FIQUE COM ÓDIO.",
 
 	// MANIFESTO
 	"manifesto": [
 		//"as if you viewers want GOOD news"       ,
-		"who tunes in to watch *people get along?*",
-		"peace is boring. violence goes viral.",
+		"quem assiste tv para ver *pessoas se dando bem?*",
+		"paz é sem graça. violência é viral.",
 		//"peace is boring. conflict gets clicks." ,
-		"and every story needs a conflict, so...",
+		"e toda história precisa de um conflito...",
 		//"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-		"GIVE THE AUDIENCE WHAT THEY WANT."
+		"DE AO PUBLICO O QUE O PUBLICO PRECISA."
 	],
 
 	// -- Strings currently in graphics resources --
 
 	// (bg_preload.png) Preload screen
-	"playingTime": "playing time: 5 minutes",
-	"warning": "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised.",
+	"playingTime": "tempo de jogo: 5 minutos",
+	"warning": "atencao: esse programa \ncontem cenas esnobes,\nsem respeito & violencia em massa.\naconselha-se a discrição do telespectador.",
 
 	// (cam-instructions.png) Camera Instructions
-	"pointAndClick": "POINT & CLICK",
+	"pointAndClick": "APONTE & CLIQUE",
 
 	// (chyron3.png)
-	"chyronNothing": "WOWWEE, IT'S *NOTHING*",
+	"chyronNothing": "MEUS DEUS, NAO EH *NADA*",
 
 	// (credits0001.png)
-	"createdBy": "created by",
+	"createdBy": "criado por",
 	"NickyCase": "Nicky Case",
 
 	// (credits0002.png)
-	"manyThanks": "many thanks to my playtesters:",
+	"manyThanks": "muito obrigado aos testadores:",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": "and to my patreon supporters:",
+	"patreonSupporters": "e aos meus apoiadores do patreon:",
 
 	// (credits0007.png)
-	"lastButNotLeast": "and last but not least,",
+	"lastButNotLeast": "e por último, mas não menos importante,",
 
 	// (credits0008.png)
-	"thankYouForPlaying": "thank YOU for playing!",
+	"thankYouForPlaying": "obrigado a *VOCÊ* por jogar!",
 
 	// (preload_play.png)
-	"playButton": "PLAY",
+	"playButton": "JOGAR",
 
 	// (end_button.png) Post Credits
-	"otherWorkButton": "see my other work",
-	"buyCoffeeButton": "buy me a coffee",
-	"replayButton": "replay this mess",
+	"otherWorkButton": "veja meus outros trabalhos",
+	"buyCoffeeButton": "me compre um café",
+	"replayButton": "re-jogar esta bagunça",
 
 	// (logo.png) Post Credits
-	"logoWBWWB": "SHARE THE PAIN:",
+	"logoWBWWB": "COMPARTILHE:",
 
 	// (end_prototype.png)
-	"endOfPrototype": "END OF PROTOTYPE",
-	"toBeContinued": "(to be continued!)",
+	"endOfPrototype": "FIM DO PROTOTIPO",
+	"toBeContinued": "(continu no futuro...)",
 
 	// (quote0002.png)
 	"WBWWB": "We become what we behold.",
